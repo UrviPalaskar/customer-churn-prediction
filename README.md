@@ -85,7 +85,7 @@ jupyter notebook notebooks/churn_prediction.ipynb
 - AWS deployment
 
 ## Author
-Uma
+Urvija Palaskar
 
 ## License
 MIT
